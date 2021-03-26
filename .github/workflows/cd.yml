@@ -1,10 +1,8 @@
+name: CD
 on:
   push:
     branches:
       - main
-
-name: CD
-
 jobs:
   deploy:
     name: Deploy
