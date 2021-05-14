@@ -2,7 +2,7 @@
   <div class="home">
     <div class="profile">
       <div class="heading">
-        <h1>Golang and Vue js Developper</h1>
+        <h1>Golang and Vue js Developer</h1>
         <div class="icons">
           <a href="https://www.linkedin.com/in/achille-garin"><img class="linkedin" alt="" src="../assets/icons/linkedin.svg"/></a>
           <a href="https://github.com/achille-garin"><img class="github" alt="" src="../assets/icons/github.svg"/></a>
