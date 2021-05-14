@@ -99,7 +99,7 @@ export default {
                     picture: require('../assets/images/bio/code.svg'),
                     pictureAlt: "Code illustration logo",
                     downsize: 0,
-                    text: 'I had my first experience with developpment in 2014 as a hobby, and it quickly became a passion. Since then I have been learning many other languages out of curiosity or for learning purposes. Right now I consider <strong><a href="https://golang.org/" target="blank">Golang</a></strong> to be a good thing to know for the modern IT world; that\'s why I chose it. Simplicity and performance are its key features, in my opinion. Also, for me there is no debate that Vue.js is the best frontend framework.'
+                    text: 'I had my first experience with development in 2014 as a hobby, and it quickly became a passion. Since then I have been learning many other languages out of curiosity or for learning purposes. Right now I consider <strong><a href="https://golang.org/" target="blank">Golang</a></strong> to be a good thing to know for the modern IT world; that\'s why I chose it. Simplicity and performance are its key features, in my opinion. Also, for me there is no debate that Vue.js is the best frontend framework.'
                 },
                 {
                     picture: require('../assets/images/bio/gnu.svg'),
